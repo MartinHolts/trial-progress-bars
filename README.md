@@ -1,4 +1,4 @@
-# front-end-weekly-progress-bars-trial-work
+# front-end-weekly-progress-bars-trial-work-2018
 
 Trial work I made in 2018 to apply to a Front-End position.
 
