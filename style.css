@@ -1,0 +1,67 @@
+body {
+  margin: 0px;
+}
+#content {
+  max-width: 680px;
+}
+#hoursAndProgressbars {
+  max-width: 675px;
+  margin-right: 5px;
+}
+#hours {
+  font-size: 0;
+}
+.hours {
+  display: inline-block;
+  font-size: 14px;
+  width: 4.166666666666667%;
+}
+#progressbars {
+  max-width: 680px;
+  font-size: 0;
+}
+#monday {
+  margin-top: 8px;
+}
+#tuesday {
+  margin-top: 8px;
+}
+#wednesday {
+  margin-top: 8px;
+}
+#thursday {
+  margin-top: 8px;
+}
+#friday {
+  margin-top: 8px;
+}
+#saturday {
+  margin-top: 8px;
+}
+#sunday {
+  margin-top: 8px;
+}
+#colorDefinitions {
+  float: right;
+}
+#eco {
+  color: white;
+  display: inline-block;
+  background-color: #005264;
+  padding: 3px 5px 3px 5px;
+  margin-top: 17px;
+}
+#standby {
+  color: white;
+  display: inline-block;
+  background-color: #868686;
+  padding: 3px 5px 3px 5px;
+  margin-top: 17px;
+}
+#comfort {
+  color: white;
+  display: inline-block;
+  background-color: #A2A2A2;
+  padding: 3px 5px 3px 5px;
+  margin-top: 17px;
+}
