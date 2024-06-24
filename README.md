@@ -1,4 +1,4 @@
-# Progress-bars
+# Progress bars
 
 Trial work I made in 2018 to apply to a Front-End position.
 
