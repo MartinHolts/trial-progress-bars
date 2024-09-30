@@ -4,7 +4,7 @@ Trial work I made in 2018 to apply to a Front-End position.
 
 ## Access the Project
 
-You can access the project and explore its features here: **[https://martinholts.github.io/trial-work-progress-bars/](https://martinholts.github.io/trial-work-progress-bars/)**
+You can access the project and explore its features here: **[https://martinholts.github.io/trial-progress-bars/](https://martinholts.github.io/trial-progress-bars/)**
 
 ## Images
 
